@@ -20,7 +20,6 @@ Cards will stretch to fill the width of their container. Wrap the card in anothe
 ```
 
 ### Coloured variants
-
 Card also supports an 'alternative' or 'branded' `variant`. These appear flat, while the default Card appears floating.
 
 ```jsx
